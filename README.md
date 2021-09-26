@@ -1,4 +1,4 @@
-# live preview - 
+# Live Preview 
 
 [weatherapp](https://weatherapp30.netlify.app)
 
