@@ -1,4 +1,6 @@
-# live preview - weatherapp30.netlify.app
+# live preview - 
+
+[weatherapp](https://weatherapp30.netlify.app)
 
 
 # Getting Started with Create React App
